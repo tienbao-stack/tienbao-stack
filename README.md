@@ -4,6 +4,8 @@
 </p>
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
+---
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -14,6 +16,9 @@ I'm a computer science student who is passionate about writing code, solving pro
 <p align="center">
   <img width="40%" align="below" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
 </p>
+
+---
+
 ### 🛠 &nbsp;Tech Stack
 
 - 💻 &nbsp;
@@ -36,7 +41,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=plastic&logo=visual-studio-code&logoColor=007ACC)
 
-
+---
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 

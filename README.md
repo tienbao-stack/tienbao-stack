@@ -40,7 +40,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.facebook.com/tienvubao.nguyen/"><img alt="LinkedIn" src="https://img.shields.io/badge/Facebook-To%C3%A0n%20V%C3%B5-blue?style=plastic&logo=facebook"></a>
+<a href="https://www.facebook.com/tienvubao.nguyen/"><img alt="LinkedIn" src="https://img.shields.io/badge/Facebook-B%E1%BA%A3o%20Nguy%E1%BB%85n-blue?style=plastic&logo=facebook"></a>
 <a href="mailto:bao.nguyenlqdvt16@hcmut.edu.vn"><img alt="Email" src="https://img.shields.io/badge/Email-bao.nguyenlqdvt16@hcmut.edu.vn-success?style=plastic&logo=gmail"></a>
 </p>
 

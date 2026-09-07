@@ -1,6 +1,6 @@
 ## Hey there 👋 I'm Bảo.
 
-<img width="30%" align="left" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<img width="30%" align="bottom" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
@@ -11,7 +11,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 📚 &nbsp; Currently learning frontend web development using ReactJS, Redux, CSS frameworks.
 - 👯 &nbsp; Looking for a Software Development Internship.
 
-<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
+<img width="40%" align="below" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
 
 ### 🛠 &nbsp;Tech Stack
 

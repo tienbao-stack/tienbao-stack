@@ -1,18 +1,19 @@
 ## Hey there 👋 I'm Bảo.
-
-<img width="30%" align="bottom" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
-
+<p align="center">
+  <img width="30%" align="bottom" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+</p>
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
-
+---
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at Ho Chi Minh University of Technology.
 - 📚 &nbsp; Currently learning frontend web development using ReactJS, Redux, CSS frameworks.
 - 👯 &nbsp; Looking for a Software Development Internship.
-
-<img width="40%" align="below" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
-
+---
+<p align="center">
+  <img width="40%" align="below" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
+</p>
 ### 🛠 &nbsp;Tech Stack
 
 - 💻 &nbsp;

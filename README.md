@@ -8,10 +8,10 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+<!-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at Ho Chi Minh University of Technology.
 - 📚 &nbsp; Currently learning frontend web development using ReactJS, Redux, CSS frameworks.
-- 👯 &nbsp; Looking for a Software Development Internship.
+- 👯 &nbsp; Looking for a Software Development Internship. -->
 
 <p align="center">
   <img width="40%" align="below" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
@@ -21,7 +21,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 ### 🛠 &nbsp;Tech Stack
 
-- 💻 &nbsp;
+<!-- 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=plastic&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=plastic&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=plastic&logo=C%2B%2B&logoColor=00599C)
@@ -39,7 +39,7 @@ I'm a computer science student who is passionate about writing code, solving pro
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=plastic&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=plastic&logo=markdown)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=plastic&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=plastic&logo=visual-studio-code&logoColor=007ACC) -->
 
 ---
 
